@@ -20,6 +20,9 @@ h1{
     h1{
         width: 700px;
     }
+    .buttons{
+        width: auto;
+    }
 }
 
 .head img {
