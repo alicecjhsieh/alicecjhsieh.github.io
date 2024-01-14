@@ -20,9 +20,6 @@ h1{
     h1{
         width: 700px;
     }
-    .buttons{
-        width: auto;
-    }
 }
 
 .head img {
@@ -48,7 +45,11 @@ h1{
     font-weight: bold;
     text-decoration: none;
 }
-
+@media(min-width:768px) {
+    .buttons a{
+        width: 95%;
+    }:
+}
 a:hover{
     background-color: #eee;
     text-decoration: underline dotted;
