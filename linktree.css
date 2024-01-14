@@ -47,7 +47,7 @@ h1{
 }
 @media(min-width:768px) {
     .buttons a{
-        width: 95%;
+        width: 70%;
     }:
 }
 a:hover{
